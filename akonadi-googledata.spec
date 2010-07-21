@@ -1,7 +1,7 @@
 Name:		akonadi-googledata
-Version:	1.0.1
+Version:	1.1.0
 Summary:	Google contacts and calendar akonadi resource
-Release:	%mkrel 2
+Release:	%mkrel 1
 License:	LGPLv2.1
 Group:		Graphical desktop/KDE
 URL:		http://websvn.kde.org/trunk/extragear/pim/googledata/
