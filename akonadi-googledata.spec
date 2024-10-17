@@ -4,7 +4,7 @@ Summary:	Google contacts and calendar akonadi resource
 Release:	3
 License:	LGPLv2.1
 Group:		Graphical desktop/KDE
-URL:		http://websvn.kde.org/trunk/extragear/pim/googledata/
+URL:		https://websvn.kde.org/trunk/extragear/pim/googledata/
 Source0:	http://libgcal.googlecode.com/files/%{name}-%{version}.tar.bz2
 BuildRequires:	kdepimlibs-devel
 BuildRequires:	libgcal-devel >= 0.9.6
